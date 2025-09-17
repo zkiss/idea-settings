@@ -1,4 +1,4 @@
-<keymap version="1" name="Z Hotkeys" parent="Default for GNOME">
+<keymap version="1" name="Z Hotkeys" parent="$default">
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
