@@ -66,9 +66,6 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="shift ctrl alt p" />
   </action>
-  <action id="Git.Pull">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
-  </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
@@ -208,7 +205,9 @@
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
-  <action id="Vcs.UpdateProject" />
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
+  </action>
   <action id="copilot.chat.inline">
     <keyboard-shortcut first-keystroke="shift ctrl l" />
   </action>
