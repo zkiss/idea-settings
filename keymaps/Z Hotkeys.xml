@@ -40,6 +40,9 @@
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
+  <action id="ExpressionTypeInfo">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
   <action id="ExternalSystem.ProjectRefreshAction" />
   <action id="ExtractMethod">
     <keyboard-shortcut first-keystroke="ctrl alt m" />
